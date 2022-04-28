@@ -1,4 +1,4 @@
-# Commands for this page
+# APIs used in this page
 
 * [List owners - GET /applications/{id}/owners](/graph/api/application-list-owners?view=graph-rest-1.0&tabs=http)
   * PowerShell: [Get-MgApplicationOwner](/powershell/module/microsoft.graph.applications/get-mgapplicationowner?view=graph-powershell-1.0)
